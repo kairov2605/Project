@@ -17,7 +17,7 @@ namespace HelloApp
         public static void Add(int x, int y)
         {
             int z = x + y;
-            Console.WriteLine($"Сумма {x} и {y} равна {z}");
+            Console.WriteLine($"Summa of {x} and {y} equals {z}");
         }
     }
 }
